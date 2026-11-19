@@ -2,6 +2,8 @@
 
 **RepoPulse**, Python 3.13 uyumlu bir **GitHub Profil & Repo Sağlık Denetçisi** CLI aracıdır. GitHub REST API v3 üzerinden depoları analiz ederek 100 üzerinden sağlık skoru hesaplar, terminalde renkli `Rich` raporları sunar ve tek komutla temiz Markdown (`.md`) raporlarına dışa aktarır.
 
+![RepoPulse CLI Demo](assets/demo.png)
+
 ## Özellikler
 
 - **Tekil Repo Denetimi (`repopulse repo`):** README kalitesi, standart dosyalar, commit güncelliği/açıklayıcılığı, dil dağılımı ve genel bakım sağlığına göre 100 puanlık skor kartı.
